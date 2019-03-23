@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Alte Haas Bold";
-    src: url("/fonts/AlteHaasGroteskBold.ttf")
+    src: url("../fonts/AlteHaasGroteskBold.ttf")
 }
 
 @font-face {
     font-family: "Alte Haas Regular";
-    src: url("/fonts/AlteHaasGroteskRegular.ttf")
+    src: url("../fonts/AlteHaasGroteskRegular.ttf")
 }
 
 @font-face {
